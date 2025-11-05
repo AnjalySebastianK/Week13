@@ -91,3 +91,7 @@ This document explores the functionalities of **routers, switches, and hubs**, t
 * **Hubs**: Legacy devices with **no traffic intelligence**, offering **minimal security**. Easily replaced by switches for both performance and security.
 
 **Key Takeaways:**
+
+* Security depends heavily on configuration, monitoring, and network policies.
+* Modern networks rely on **routers and switches**, while hubs are mostly obsolete.
+* Combining **device security features with network policies** ensures a robust, secure environment.
